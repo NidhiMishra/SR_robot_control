@@ -1,0 +1,30 @@
+<animation>
+	<animation_name>poseHappy</animation_name>
+	<channel1> 184 </channel1> 
+	<channel2> 224 </channel2> 
+	<channel3> 128 </channel3> 
+	<channel4> 128 </channel4> 	
+	<channel5> 192 </channel5> 
+	<channel6> 0 </channel6> 
+	<channel7> 253 </channel7> 
+	<channel8> 240 </channel8> 
+	<channel9> 240 </channel9> 
+	<channel10> 128 </channel10> 
+	<channel11> 255 </channel11> 	
+	<channel12> 255 </channel12>
+	<channel13> 128 </channel13> 
+	<channel14> 0 </channel14> 
+	<channel15> 0 </channel15> 
+	<channel16> 255 </channel16> 
+	<channel17> 255 </channel17>  
+	<channel18> 255 </channel18> 	
+	<channel19> 255 </channel19> 
+	<channel20> 0 </channel20> 
+	<channel21> 0 </channel21> 	
+	<channel22> 192 </channel22> 
+	<channel23> 189 </channel23> 	
+	<channel24> 136 </channel24> 	
+	<channel25> 96 </channel25>
+	<channel26> 0 </channel26> 
+	<channel27> 0 </channel27>  
+</animation>

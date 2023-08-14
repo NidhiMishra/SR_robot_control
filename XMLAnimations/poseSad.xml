@@ -1,0 +1,30 @@
+<animation>
+	<animation_name>poseSad</animation_name>
+	<channel1> 184 </channel1> 
+	<channel2> 0 </channel2> 
+	<channel3> 128 </channel3> 
+	<channel4> 128 </channel4> 	
+	<channel5> 40 </channel5> 
+	<channel6> 168 </channel6> 
+	<channel7> 0 </channel7> 
+	<channel8> 29 </channel8> 
+	<channel9> 229 </channel9> 
+	<channel10> 128 </channel10> 
+	<channel11> 130 </channel11> 	
+	<channel12> 130 </channel12>
+	<channel13> 128 </channel13> 
+	<channel14> 13 </channel14> 
+	<channel15> 16 </channel15> 
+	<channel16> 42 </channel16> 
+	<channel17> 34 </channel17>  
+	<channel18> 184 </channel18> 	
+	<channel19> 106 </channel19> 
+	<channel20> 125 </channel20> 
+	<channel21> 77 </channel21> 	
+	<channel22> 168 </channel22> 
+	<channel23> 170 </channel23> 	
+	<channel24> 213 </channel24> 	
+	<channel25> 216 </channel25>
+	<channel26> 125 </channel26> 
+	<channel27> 69 </channel27>  
+</animation>

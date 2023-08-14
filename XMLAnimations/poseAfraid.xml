@@ -1,0 +1,30 @@
+<animation>
+	<animation_name>poseAfraid</animation_name>
+	<channel1> 197 </channel1> 
+	<channel2> 255 </channel2> 
+	<channel3> 128 </channel3> 
+	<channel4> 128 </channel4> 	
+	<channel5> 170 </channel5> 
+	<channel6> 0 </channel6> 
+	<channel7> 0 </channel7> 
+	<channel8> 130 </channel8> 
+	<channel9> 0 </channel9> 
+	<channel10> 0 </channel10> 
+	<channel11> 0 </channel11> 	
+	<channel12> 255 </channel12>
+	<channel13> 0 </channel13> 
+	<channel14> 255 </channel14> 
+	<channel15> 255 </channel15> 
+	<channel16> 255 </channel16> 
+	<channel17> 218 </channel17>  
+	<channel18> 200 </channel18> 	
+	<channel19> 255 </channel19> 
+	<channel20> 34 </channel20> 
+	<channel21> 114 </channel21> 	
+	<channel22> 255 </channel22> 
+	<channel23> 255 </channel23> 	
+	<channel24> 160 </channel24> 	
+	<channel25> 255 </channel25>
+	<channel26> 120 </channel26> 
+	<channel27> 0 </channel27>  
+</animation>

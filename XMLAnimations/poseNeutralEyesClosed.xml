@@ -1,0 +1,30 @@
+<animation>
+	<animation_name>poseNeutralEyesClosed</animation_name>
+	<channel1> 255 </channel1> 
+	<channel2> 128 </channel2> 
+	<channel3> 128 </channel3> 
+	<channel4> 128 </channel4> 	
+	<channel5> 0 </channel5> 
+	<channel6> 0 </channel6> 
+	<channel7> 0 </channel7> 
+	<channel8> 240 </channel8> 
+	<channel9> 240 </channel9> 
+	<channel10> 128 </channel10> 
+	<channel11> 128 </channel11> 	
+	<channel12> 128 </channel12>
+	<channel13> 128 </channel13> 
+	<channel14> 130 </channel14> 
+	<channel15> 128 </channel15> 
+	<channel16> 65 </channel16> 
+	<channel17> 55 </channel17>  
+	<channel18> 109 </channel18> 	
+	<channel19> 135 </channel19> 
+	<channel20> 80 </channel20> 
+	<channel21> 50 </channel21> 	
+	<channel22> 110 </channel22> 
+	<channel23> 120 </channel23> 	
+	<channel24> 70 </channel24> 	
+	<channel25> 30 </channel25>
+	<channel26> 50 </channel26> 
+	<channel27> 58 </channel27>  
+</animation>
